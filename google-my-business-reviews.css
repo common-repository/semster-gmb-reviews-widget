@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+.user_ratings_total {
+	margin: 0 auto;
+}
+.stars0, .stars5, .stars10, .stars15, .stars20, .stars25, .stars30, .stars35, .stars40, .stars45, .stars50,
+.squares0, .squares5, .squares10, .squares15, .squares20, .squares25, .squares30, .squares35, .squares40, .squares45, .squares50,
+.thumbs0, .thumbs5, .thumbs10, .thumbs15, .thumbs20, .thumbs25, .thumbs30, .thumbs35, .thumbs40, .thumbs45, .thumbs50 {
+	background-image: url(images/ratings-v3.png);
+	width: 88px;
+	height: 20px;
+}
+
+.stars0 {
+	background-position: -185px -190px;
+}
+.stars5 {
+	background-position: -185px -171px;
+}
+.stars10 {
+	background-position: -185px -152px;
+}
+.stars15 {
+	background-position: -185px -133px;
+}
+.stars20 {
+	background-position: -185px -114px;
+}
+.stars25 {
+	background-position: -185px -95px;
+}
+.stars30 {
+	background-position: -185px -76px;
+}
+.stars35 {
+	background-position: -185px -57px;
+}
+.stars40 {
+	background-position: -185px -38px;
+}
+.stars45 {
+	background-position: -185px -19px;
+}
+.stars50 {
+	background-position: -185px 0px;
+}
+
+.thumbs0 {
+	background-position: -93px -190px;
+}
+.thumbs5 {
+	background-position: -93px -171px;
+}
+.thumbs10 {
+	background-position: -93px -152px;
+}
+.thumbs15 {
+	background-position: -93px -133px;
+}
+.thumbs20 {
+	background-position: -93px -114px;
+}
+.thumbs25 {
+	background-position: -93px -95px;
+}
+.thumbs30 {
+	background-position: -93px -76px;
+}
+.thumbs35 {
+	background-position: -93px -57px;
+}
+.thumbs40 {
+	background-position: -93px -38px;
+}
+.thumbs45 {
+	background-position: -93px -19px;
+}
+.thumbs50 {
+	background-position: -93px 0px;
+}
+
+.squares0 {
+	background-position: -2px -190px;
+}
+.squares5 {
+	background-position: -2px -171px;
+}
+.squares10 {
+	background-position: -2px -152px;
+}
+.squares15 {
+	background-position: -2px -133px;
+}
+.squares20 {
+	background-position: -2px -114px;
+}
+.squares25 {
+	background-position: -2px -95px;
+}
+.squares30 {
+	background-position: -2px -76px;
+}
+.squares35 {
+	background-position: -2px -57px;
+}
+.squares40 {
+	background-position: -2px -38px;
+}
+.squares45 {
+	background-position: -2px -19px;
+}
+.squares50 {
+	background-position: -2px 0px;
+}
